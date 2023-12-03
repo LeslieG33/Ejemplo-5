@@ -1,0 +1,10 @@
+C:\Users\gisel\Downloads\Programación\Ejemplo 5\bin\Debug\Ejemplo 5.exe.config
+C:\Users\gisel\Downloads\Programación\Ejemplo 5\bin\Debug\Ejemplo 5.exe
+C:\Users\gisel\Downloads\Programación\Ejemplo 5\bin\Debug\Ejemplo 5.pdb
+C:\Users\gisel\Downloads\Programación\Ejemplo 5\obj\Debug\Ejemplo 5.csproj.AssemblyReference.cache
+C:\Users\gisel\Downloads\Programación\Ejemplo 5\obj\Debug\Ejemplo_5.frmEjemplo5.resources
+C:\Users\gisel\Downloads\Programación\Ejemplo 5\obj\Debug\Ejemplo_5.Properties.Resources.resources
+C:\Users\gisel\Downloads\Programación\Ejemplo 5\obj\Debug\Ejemplo 5.csproj.GenerateResource.cache
+C:\Users\gisel\Downloads\Programación\Ejemplo 5\obj\Debug\Ejemplo 5.csproj.CoreCompileInputs.cache
+C:\Users\gisel\Downloads\Programación\Ejemplo 5\obj\Debug\Ejemplo 5.exe
+C:\Users\gisel\Downloads\Programación\Ejemplo 5\obj\Debug\Ejemplo 5.pdb
